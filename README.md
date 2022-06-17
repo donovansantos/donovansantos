@@ -1,4 +1,4 @@
-- 👋 Olá, eu sou o Donovan, Estudante do 8° semestre de sistemas de informação.
+- 👋 Olá, eu sou o Donovan,formado em sistemas de informação.
 - 👀 estou interessado em ser um desenvolvedor Front end.
 - 🌱 eu estou aprendendo HTML CSS.
 
